@@ -25,6 +25,6 @@ Om du i framtiden får felet "#<Errno::EADDRNOTAVAIL: Failed to open TCP connect
     ```
 
 
-4. Clona hemsidan, gå till fliken "Developers" på SPIIK's CMS och följ instruktionerna.
+4. För att klona hemsidan, gå till fliken "Developers" på SPIIK's CMS och följ instruktionerna.
 
 5. Du kan nu nå sidan lokalt via http://localhost:3333/
