@@ -1,6 +1,6 @@
 # För att kunna uppdatera spiik.com samt nollning.spiik.com
 # Ubuntu, Ruby, LocomotiveCMS, Wagon
-# https://github.com/bobinush
+# https://github.com/bobinush/spiik-web
 
 FROM ubuntu:18.04
 ARG DEBIAN_FRONTEND=noninteractive
